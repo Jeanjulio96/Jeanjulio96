@@ -25,7 +25,8 @@
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
-  
+  <br>
+  <br>
 
   <div>
   
