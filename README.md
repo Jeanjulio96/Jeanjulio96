@@ -12,9 +12,8 @@
 
 <div>
   <a href="https://github.com/Jeanjulio96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeanjulio96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    ##
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanjulio96&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeanjulio96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanjulio96&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -31,7 +30,6 @@
   <div>
   
   <a href="https://instagram.com/Jeanjuliofr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
   <a href = "jeanjulioferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-júlio-ferreira-a4b6797a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
