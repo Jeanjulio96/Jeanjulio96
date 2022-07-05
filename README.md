@@ -27,9 +27,6 @@
    <img align="center" alt="Jean-PostgreSQL" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Jean-Git" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
  
-  <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
-  
   ##
 
   <div>
