@@ -5,7 +5,7 @@
 
 + 🤓 Systems analysis and development student.
 + 🖥️ Currently studying Java, and HTML CSS Javascript aiming to become a Fullstack Developer.
-+ ✅ I have knowledge in: Java, HTML5, CSS3, Javascript, C, Git, Python, SQL.
++ ✅ I have knowledge in: Java, HTML5, CSS3, Javascript, C, Git, Python, SQL, Struts 2, Spring Boot, Bootstrap, JWT, Rest API.
 + 😎 Always looking to learn more every day.
 
 <div>
