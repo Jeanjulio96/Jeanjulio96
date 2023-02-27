@@ -5,7 +5,7 @@
 
 + 🤓 Systems analysis and development student.
 + 🖥️ Currently studying Java, Struts 2 legacy systems, as well as modern APIs like Spring Boot.
-+ ✅ I have knowledge in: Java, HTML5, CSS3, Javascript, Bootstrap, C, Git, Python, SQL, Struts 2, Spring Boot.
++ ✅ I have knowledge in: Java, HTML5, CSS3, Javascript, Bootstrap, C, Git, Python, SQL, Struts 2, Spring Boot, Rest.
 + 😎 Always looking to learn more every day.
 
 <div>
