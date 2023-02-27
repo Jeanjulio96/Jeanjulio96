@@ -4,8 +4,8 @@
 **Jeanjulio96/Jeanjulio96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 + 🤓 Systems analysis and development student.
-+ 🖥️ Currently studying Java, Struts 2 legacy systems, as well as modern APIs like Spring Boot, JWT and Rest.
-+ ✅ I have knowledge in: Java, HTML5, CSS3, Javascript, C, Git, Python, SQL, Struts 2, Spring Boot, Bootstrap, JWT, Rest API.
++ 🖥️ Currently studying Java, Struts 2 legacy systems, as well as modern APIs like Spring Boot.
++ ✅ I have knowledge in: Java, HTML5, CSS3, Javascript, Bootstrap, C, Git, Python, SQL, Struts 2, Spring Boot.
 + 😎 Always looking to learn more every day.
 
 <div>
